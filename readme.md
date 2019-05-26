@@ -6,7 +6,7 @@
 ##  Чтобы развернуть проект необходимо:
 ```sh
 $ git clone https://github.com/rombrant/savetime-test
-$ cd test-task
+$ cd savetime-test
 $ yarn
 ```
 
